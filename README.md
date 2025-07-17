@@ -33,10 +33,10 @@ The `articles` table is defined as:
 
 -> pip install requests beautifulsoup4
 
+2. **To run code**
+
 -> python pipeline.py
 
-# for running test file
--> pip install pytest
--> pytest test_pipeline.py
+
 
 
